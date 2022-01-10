@@ -1,0 +1,110 @@
+{
+  "products": [
+    {
+    "image": "placebo.jpg",
+    "name": "Black Market Music",
+    "artist": "Placebo",
+    "price": 45,
+    "catalog": "FLOORLP13, 7243 8 50049 1 9",
+    "article": "article#1",
+      "info": "Black Market Music — третий альбом рок-группы Placebo, выпущенный в 2000 году.",
+    "available": true
+    },
+    {
+    "image": "coldplay.jpg",
+    "name": "Mylo Xyloto",
+    "artist": "Coldplay",
+    "price": 55,
+    "catalog": "7243 5 40504 1 1, 540 5041",
+    "article": "article#2",
+      "info": "Mylo Xyloto — пятый студийный альбом британской альтернативной группы Coldplay. Альбом был выпущен 24 октября 2011 года лейблом EMI.[8] Ему предшествовали синглы «Every Teardrop Is a Waterfall» — вышел 3 июня 2011 года и «Paradise» — 12 сентября 2011 года, а вслед за альбомом вышел третий сингл — «Princess of China», 25 октября 2011 года. В записи песни «Princess of China» принимала участие певица Рианна.",
+    "available": true
+    },
+    {
+    "image": "radiohead.jpg",
+    "name": "Pablo Honey",
+    "artist": "Radiohead",
+    "price": 90,
+    "catalog": "PCS 7360, 7814091",
+    "article": "article#3",
+      "info": "Pablo Honey — дебютный студийный альбом английской рок-группы Radiohead, увидевший свет в начале 1993 года. В число композиций альбома входит первый всемирно известный хит Radiohead «Creep», вышедший на сингле немного ранее — в сентябре 1992-го. Уже после выпуска Pablo Honey, «Creep» поднялся на 71-ю строчку в британском чарте, заняв в итоге седьмое место. Группа также выпустила два других сингла к альбому: «Anyone Can Play Guitar» и «Stop Whispering».",
+    "available": true
+    },
+    {
+    "image": "slowdive.jpg",
+    "name": "Just For A Day",
+    "artist": "Slowdive",
+    "price": 35,
+    "catalog": "CRE x101, COCY-9968",
+    "article": "article#4",
+      "info": "Just for a Day is the debut studio album by English rock band Slowdive. It was released on 2 September 1991 by Creation Records.",
+    "available": true
+    },
+    {
+    "image": "killers.jpg",
+    "name": "Hot Fuss",
+    "artist": "The Killers",
+    "price": 38,
+    "catalog": "LIZARD011X",
+    "article": "article#5 ",
+      "info": "Hot Fuss — дебютный альбом американской альтернативной рок-группы The Killers, вышедший в июне 2004 года.",
+    "available": true
+    },
+
+    {
+    "image": "slowdive2.jpg",
+    "name": "Blue Day",
+    "artist": "Slowdive",
+    "price": 25,
+    "catalog": "CRELP 094",
+    "article": "article#6",
+      "info": "Blue Day is a compilation album by English shoegazing band Slowdive.[1] It was released in 1992 on Creation Records and compiled the first three Slowdive EPs: Slowdive (missing the track \"Avalyn II\"), Morningrise (in its entirety), and Holding Our Breath (missing the Syd Barrett cover \"Golden Hair\" as well as \"Catch the Breeze\", which appeared on their first full-length Just for a Day).[1] It was subsequently made available in the US and the UK with the initial 1000 copies of \"Souvlaki\" as part of a limited edition double CD.[4]",
+    "available": true
+    },
+    {
+    "image": "coldplay2.jpg",
+    "name": "Parachutes",
+    "artist": "Coldplay",
+    "price": 67,
+    "catalog": "7243 5 27783 1 7, 527 7831",
+    "article": "article#7",
+      "info": "Parachutes (с англ. — «Парашюты») — дебютный студийный альбом английской рок-группы Coldplay. Его выход состоялся 10 июля 2000 года в Великобритании и 7 ноября в США. Продюсированием большинства песен занималась сама группа совместно с Кеном Нельсоном, один трек спродюсировал Крис Элисон. С альбома вышло четыре ставших хитами сингла: «Shiver[en]», «Yellow», «Trouble», и «Don’t Panic».",
+    "available": true
+    },
+    {
+    "image": "radiohead2.jpg",
+    "name": "OK Computer",
+    "artist": "Radiohead",
+    "price": 66,
+    "catalog": "\tNODATA 02, 7243 8 55229 1 8",
+    "article": "article#8",
+      "info": "OK Computer — третий студийный альбом британской альтернативной рок-группы Radiohead, выпущенный в 1997 году на лейблах Parlophone и Capitol Records. Пластинка была записана в несколько этапов с 1996 по 1997 год[комм. 1] и спродюсирована музыкантами самостоятельно при участии Найджела Годрича. Во время работы над этим альбомом группа преднамеренно отошла как можно дальше от гитарного звучания и рефлексивного стиля своего предыдущего диска — The Bends. Абстрактные тексты OK Computer в сочетании с многослойным звуком и широким спектром влияний различных музыкальных жанров заложили основу для последующих, более экспериментальных записей группы.",
+    "available": true
+    },
+
+    {
+    "image": "muse.jpg",
+    "name": "Origin Of Symmetry",
+    "artist": "Muse",
+    "price": 49,
+    "catalog": "MUSH93LP",
+    "article": "article#9",
+      "info": "Origin of Symmetry (в переводе с англ. — происхождение симметрии) — второй студийный альбом британской альтернативной рок-группы группы Muse, выпущенный летом 2001 лейблом Mushroom Records в UK. Plug In Baby, New Born, Bliss, Feeling Good и Hyper Music были выпущены в виде синглов к этому альбому, позже две из них перевыпустили вместе двойным CD. В 2006 году читатели музыкального журнала Q назвали этот альбом #73 в их 100 Greatest Albums Ever.",
+    "available": true
+    },
+    {
+    "image": "placebo2.jpg",
+    "name": "Placebo",
+    "artist": "Placebo",
+    "price": 199,
+    "catalog": "LPFLOOR2, 7243 8 41861 1 1",
+    "article": "article#10",
+      "info": "Placebo (рус. Плацебо) — дебютный студийный альбом британской альтернативной рок группы Placebo, выпущенный 17 июля 1996 года на лейбле Virgin Records в Великобритании и 9 июля 1996 года на лейбле Caroline Records в США. Это единственный альбом, в записи которого участвовал барабанщик Роберт Шульцберг; после записи альбома он ушёл из группы. Альбом выпускался в форматах CD, винил и аудиокассеты. С альбома вышло 5 синглов, одна из которых, «Nancy Boy», стала хитом, попав на 4 позицию в британском чарте UK Singles Chart[9]. Альбом был переиздан в 2006 году[10] в честь десятилетия — Placebo. 10th Anniversary Edition.",
+    "available": true
+    }
+
+
+]
+
+}
+
